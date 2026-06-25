@@ -1,4 +1,4 @@
-<h1>Hello there, Almeric here! <br/><a href="linkedin.com/in/almeric-ordejon-67546ab9">Salesforce Administrator</a></h1>
+<h1>Hello there, Almeric here! <br/><a href="https://www.linkedin.com/in/almeric-ordejon-67546ab9/?skipRedirect=true">Salesforce Administrator</a></h1>
 
 <h2>Portfolio</h2>
 
