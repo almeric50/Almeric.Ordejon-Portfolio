@@ -4,7 +4,7 @@
 
 - <b>Flow Automations</b>
   - [Screen Flow](https://github.com/almeric50/Screen-Flows)
-  - [Record-Triggered Flow](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Record-Triggered Flow](https://github.com/almeric50/Record-Triggered-Flow)
 
   
 - <b>Page Layout & Custom Objects</b>
