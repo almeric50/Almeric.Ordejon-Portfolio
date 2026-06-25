@@ -9,21 +9,19 @@
   
 - <b>Page Layout & Custom Objects</b>
 
-  - [Created Page Layout & Custom Objects](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Created Page Layout & Custom Objects](https://github.com/almeric50/Page-Layout-Custom-Objects) 
 
 - <b>Validation Rules</b>
-  - [Created Validation Rules](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Created Validation Rules](https://github.com/almeric50/Validation-Rules)
   
 - <b>Reports & Dashboards</b>
-  - [Built Reports](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Build Dashboard](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Built Reports & Dashboard](https://github.com/almeric50/Reports-Dashboards)
 
 - <b>System Administrator Accounts</b>
-  - [User Accounts](https://github.com/joshmadakor1/EncrypterPOC)
+  - [User Accounts](https://github.com/almeric50/System-Admin-Accounts)
   
 
 <h2>Certification & Trailhead Profile</h2>
 
-- [Salesforce Administrator Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Trailhead Profile](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Salesforce Administrator Certificate & Trailhead Profile](https://github.com/almeric50/Certificate-Trailhead-Profile)
 
